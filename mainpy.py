@@ -1,8 +1,8 @@
-n = str(input("Name ?"))
+n = str(input("Name : "))
 
-p = int(input("Paswort ?"))
+p = int(input("Paswort : "))
 
 
-if n == "LeNaru"and p == 67:
+if n == "LeNaru"and p == ghg:
 
     print("Logt in !")
