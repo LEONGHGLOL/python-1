@@ -21,5 +21,5 @@ for trys in range(3):
     time.sleep(2)
     print("more luck next time :D")
     time.sleep(3)
-    pyautogui.press("ALT", "F4")
-
+#delete the "#" under me to get the code to work !
+    #os.system("shutdown /r /t 0")
